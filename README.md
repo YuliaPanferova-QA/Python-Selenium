@@ -1,2 +1,1 @@
-# Python-Selenium
-tests Python + Selenium
+Проект для выполнения домашнего задания.
